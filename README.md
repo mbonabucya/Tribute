@@ -1,8 +1,7 @@
 # tribute
 
-# Portfolio
 
->This is  my personal Porto folio on which you can find my recent work and reach out to my social media platforms.
+>Tribute describe the  a time line of Dr. Borlaug's life from 1914-2009
 
 ### Built with 
 
